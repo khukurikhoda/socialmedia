@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #f2f2f2;
+}
+
+.social-media-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #f2f2f2;
+}
+
+.social-media-container a {
+	margin: 0 10px;
+	text-decoration: none;
+	color: #333;
+}
+
+.social-media-container a:hover {
+	color: #666;
+}
+
+.social-media-container img {
+	width: 32px;
+	height: 32px;
+}
